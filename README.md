@@ -30,7 +30,7 @@ Advanced Filtering: Engineered 10 cross-filtering slicers—including Bank Name,
 
   - Conditional Formatting: Applied logic to highlight the dominant currency per month within a 12-row matrix, significantly cutting down manual review time
     <p align="center">
-  <img src="screenshots/Screenshot 2026-04-23 181627.png" width="800" alt="Bookmark Features">
+  <img src="screenshots/Screenshot 2026-04-23 181627.png" width="800" alt="Multi Currency">
 </p>
 
 ### Business Impact & Insights
