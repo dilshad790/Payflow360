@@ -1,4 +1,9 @@
 # PayFlow 360: UPI Transaction Intelligence Platform
+<p align="center">
+  <img src="screenshots/Screenshot 2026-04-23 181608.png" width="900" alt="Dashboard Overview">
+  <br>
+  <i>Figure 1: Main Transaction Trends and Executive Overview</i>
+</p>
 ### Overview 
 A Comprehensive Power BI Solution for Multi-Currency Financial Analysis
 
@@ -14,6 +19,9 @@ Bookmark Integration: Implemented 4 bookmark-driven buttons that allow users to 
 
 
 Advanced Filtering: Engineered 10 cross-filtering slicers—including Bank Name, Device Type, and Purpose—to allow for hyper-granular data exploration.
+<p align="center">
+  <img src="screenshots/Screenshot 2026-04-23 181644.png" width="800" alt="Bookmark Features">
+</p>
 
 2. Data Modeling & DAX
 
@@ -21,6 +29,9 @@ Advanced Filtering: Engineered 10 cross-filtering slicers—including Bank Name,
 
 
   - Conditional Formatting: Applied logic to highlight the dominant currency per month within a 12-row matrix, significantly cutting down manual review time
+    <p align="center">
+  <img src="screenshots/Screenshot 2026-04-23 181627.png" width="800" alt="Bookmark Features">
+</p>
 
 ### Business Impact & Insights
 
